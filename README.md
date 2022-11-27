@@ -1,4 +1,23 @@
-### Hi there 👋
+# 이재민
+
+- 개발자 꿈나무
+- 1997년 5월 21일생
+- jml6534@naver.com
+
+
+## Project & Study
+ - https://github.com/byuri1356/Algorithm_Study (알고리즘 스터디)
+ - https://github.com/byuri1356/study_project (키오스크 프로젝트)
+
+
+## Available language
+<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+## Education
+
+Jeonbuk National University Department of Computer Science & Engineering (2016 ~ 2022) 
 
 <!--
 **korno1/korno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
