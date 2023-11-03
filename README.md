@@ -6,8 +6,8 @@
 
 
 ## Project & Study
- - https://github.com/byuri1356/Algorithm_Study (알고리즘 스터디)
- - https://github.com/byuri1356/study_project (키오스크 프로젝트)
+ - [알고리즘 스터디](https://github.com/codingtest-challenge/Algorithm)
+ - [맛집 추천 프로젝트](https://github.com/codingtest-challenge/Algorithm)
 
 
 ## Available language
