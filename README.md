@@ -1,6 +1,6 @@
 # 이재민
 
-- 개발자 꿈나무
+- Back-End Developer
 - 1997년 5월 21일생
 - jml6534@naver.com
 
@@ -17,6 +17,7 @@
 
 ## Education
 
+Samsung Software Academy 11 (SSAFY) (2024 ~ )
 Jeonbuk National University Department of Computer Science & Engineering (2016 ~ 2022) 
 
 <!--
