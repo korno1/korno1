@@ -17,8 +17,8 @@
 
 ## Education
 
-Samsung Software Academy 11 (SSAFY) (2024 ~ )
-Jeonbuk National University Department of Computer Science & Engineering (2016 ~ 2022) 
+- Samsung Software Academy 11 (SSAFY) (2024 ~ )
+- Jeonbuk National University Department of Computer Science & Engineering (2016 ~ 2022) 
 
 <!--
 **korno1/korno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
