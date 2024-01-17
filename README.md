@@ -6,7 +6,7 @@
 
 
 ## Project & Study
- - [알고리즘 스터디](https://github.com/codingtest-challenge/Algorithm)
+ - [알고리즘 스터디](https://github.com/SSAFYDaejeon6/Algorithm)
  - [맛집 추천 프로젝트](https://github.com/Multi-hotplace/hotplace)
 
 
