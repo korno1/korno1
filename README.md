@@ -18,7 +18,17 @@
 ## Education
 
 - Samsung Software Academy 11 (SSAFY) (2024 ~ )
-- Jeonbuk National University Department of Computer Science & Engineering (2016 ~ 2022) 
+- Jeonbuk National University Department of Computer Science & Engineering (2016 ~ 2022)
+
+<div>
+  <h1>Jaemin's BaekJoon Rank<h2>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=korno1">
+</div>
+
+<div>
+  <h1>Jaemin's Github State<h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=korno1&show_icons=true&theme=radical&hide=stars,contribs&count_private=true">
+</div>
 
 <!--
 **korno1/korno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
