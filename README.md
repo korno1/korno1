@@ -7,7 +7,8 @@
 
 ## Project & Study
  - [알고리즘 스터디](https://github.com/SSAFYDaejeon6/Algorithm)
- - [맛집 추천 프로젝트](https://github.com/Multi-hotplace/hotplace)
+ - [노숙인 공모전](https://github.com/U-ON-PJT)
+ - [UKIDS](https://github.com/korno1/ukids)
 
 
 ## Available language
