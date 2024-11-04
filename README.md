@@ -12,19 +12,19 @@
  - [RunnderWay]
 
 ## Available Language
-<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> </t>
-<img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src = "https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
-<img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="80" height="30"/> </t>
+<img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" width="80" height="30"/>
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" width="80" height="30"/>
+<img src = "https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" width="80" height="30"/>
+<img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="80" height="30"/>
 
 ## Available Tool
-<img src = "https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> </t>
-<img src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src = "https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
-<img src = "https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
-<img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-
+<img src = "https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" width="80" height="30"/> </t>
+<img src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" width="80" height="30"/>
+<img src = "https://shields.io/badge/react-black?logo=react&style=for-the-badge" width="80" height="30"/>
+<img src = "https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white" width="80" height="30"/>
+<img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" width="80" height="30"/>   
+<img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" width="80" height="30"/>
 ## Education
 
 - Samsung Software Academy 11 (SSAFY) (2024 ~ )
