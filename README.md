@@ -9,7 +9,7 @@
  - [알고리즘 스터디](https://github.com/SSAFYDaejeon6/Algorithm)
  - [노숙인 공모전](https://github.com/U-ON-PJT)
  - [UKIDS](https://github.com/korno1/ukids)
- - [RunnderWay](https://github.com/korno1/runnerway) (SSAFY 특화 프로젝트 1위)
+ - [RunnderWay](https://github.com/korno1/runnerway)
 
 ## Available Language
 <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="80" height="30"/> </t>
@@ -29,6 +29,9 @@
 
 - Samsung Software Academy 11 (SSAFY) (2024 ~ )
 - Jeonbuk National University Department of Computer Science & Engineering (2016 ~ 2022)
+
+## Prize
+- 특화 프로젝트 1위 RunnerWay (Samsung Software Academy 11)
 
 <div>
   <h1>Jaemin's BaekJoon Rank<h2>
