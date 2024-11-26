@@ -44,7 +44,7 @@
 </div>
 
 <div>
- <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+ <img src = "https://github.com/korno1/korno1/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </div>
 
 <!--
