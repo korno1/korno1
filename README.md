@@ -6,7 +6,7 @@
 
 
 ## Project & Study
- - [알고리즘 스터디](https://github.com/SSAFYDaejeon6/Algorithm)
+ - [알고리즘 스터디](https://github.com/algo-rhythmm)
  - [노숙인 공모전](https://github.com/U-ON-PJT)
 
 
