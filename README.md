@@ -8,8 +8,7 @@
 ## Project & Study
  - [알고리즘 스터디](https://github.com/SSAFYDaejeon6/Algorithm)
  - [노숙인 공모전](https://github.com/U-ON-PJT)
- - [UKIDS](https://github.com/korno1/ukids)
- - [RunnderWay](https://github.com/korno1/runnerway)
+
 
 ## Available Language
 <img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="80" height="30"/> </t>
