@@ -30,7 +30,9 @@
 - Jeonbuk National University Department of Computer Science & Engineering (2016 ~ 2022)
 
 ## Prize
+- 자율 프로젝트 2위 Windoorman (Samsung Software Academy 11)
 - 특화 프로젝트 1위 RunnerWay (Samsung Software Academy 11)
+- 성적 우수상 3위 (Samsung Software Academy 11)
 
 <div>
   <h1>Jaemin's BaekJoon Rank<h2>
