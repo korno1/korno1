@@ -17,7 +17,7 @@
 <img src = "https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" width="80" height="30"/>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="80" height="30"/>
 
-## Available Tool
+## Available Skills
 <img src = "https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" width="80" height="30"/> </t>
 <img src = "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" width="80" height="30"/>
 <img src = "https://shields.io/badge/react-black?logo=react&style=for-the-badge" width="80" height="30"/>
