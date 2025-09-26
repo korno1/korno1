@@ -5,12 +5,10 @@
 - jml6534@naver.com
 
 
-## Project & Study
- - [알고리즘 스터디](https://github.com/algo-rhythmm)
- - [노숙인 공모전](https://github.com/U-ON-PJT)
+## Project
  - [UKIDS](https://github.com/korno1/ukids)
  - [Runnerway](https://github.com/korno1/runnerway)
- - [Windoorman](https://github.com/windoorman/windoorman)
+ - [Windoorman](https://github.com/korno1/windoorman)
 
 
 ## Available Language
@@ -37,19 +35,19 @@
 - 특화 프로젝트 1위 RunnerWay (Samsung Software Academy 11)
 - 성적 우수상 3위 (Samsung Software Academy 11)
 
-<div>
+<!--<div>
   <h1>Jaemin's BaekJoon Rank<h2>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=korno1">
-</div>
+</div>-->
 
 <div>
   <h1>Jaemin's Github State<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=korno1&show_icons=true&theme=radical&hide=stars,contribs&count_private=true">
 </div>
 
-<div>
+<!--<div>
  <img src = "https://github.com/korno1/korno1/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</div>
+</div>-->
 
 <!--
 **korno1/korno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
