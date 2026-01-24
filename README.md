@@ -3,6 +3,7 @@
 - Back-End Developer
 - 1997년 5월 21일생
 - jml6534@naver.com
+- [TISTORY](https://kono1.tistory.com)
 
 
 ## Project
