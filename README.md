@@ -43,7 +43,7 @@
 
 <div>
   <h1>Jaemin's Github State<h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=korno1&show_icons=true&theme=radical&hide=stars,contribs&count_private=true">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=korno1&show_icons=true&theme=radical&hide=stars,contribs&count_private=true">
 </div>
 
 <!--<div>
